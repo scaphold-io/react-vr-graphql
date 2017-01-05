@@ -9,8 +9,6 @@ Getting started is simple.
 
 ## Requirements
 
-The starter kit requires react native. Let's install it.
-
 1. If you don't already have node install it. We also need watchman.
 
     ```
@@ -18,7 +16,7 @@ The starter kit requires react native. Let's install it.
     brew install watchman
     ```
 
-2. Globally install react-native.
+2. The starter kit requires react native. Let's install it.
 
       ```
       npm install -g react-native-cli
