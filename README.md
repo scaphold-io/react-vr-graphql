@@ -85,5 +85,3 @@ initial setup requirements by the vr environment and shouldn't need to change mu
 It's time to play around and start building! We hope this helps you build awesome VR apps!
 
 With love from [scaphold.io](https://scaphold.io)
-
-![Scaphold.io](https://scaphold.io/docs/images/logo.png)
