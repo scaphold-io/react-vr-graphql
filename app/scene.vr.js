@@ -117,7 +117,7 @@ class Scene extends React.Component {
         >
           <Animated.View
             style={{
-              layoutOrigin: [0, 0],
+              layoutOrigin: [0, 1],
               transform: [{
                 translateX: this.state.translation,
             }]}}
