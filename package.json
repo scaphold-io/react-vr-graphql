@@ -1,0 +1,28 @@
+{
+  "name": "react_vr_graphql",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node -e \"console.log('open browser at http:/localhost:8081/vr/\\n\\n');\" && node node_modules/react-native/local-cli/cli.js start",
+    "bundle": "node node_modules/react-vr/scripts/bundle.js",
+    "open": "node -e \"require('xopen')('http://localhost:8081/vr/')\"",
+    "postinstall": "node postinstall.js && echo done"
+  },
+  "dependencies": {
+    "apollo-client": "^0.6.0",
+    "graphql-tag": "^1.1.2",
+    "lodash.get": "^4.4.2",
+    "ovr-audio": "~0.1.0",
+    "ovrui": "~0.1.0",
+    "react": "15.3.2",
+    "react-apollo": "^0.7.3",
+    "react-dom": "^15.4.1",
+    "react-native": "0.37.0",
+    "react-native-storage": "^0.1.4",
+    "react-vr": "~0.1.0",
+    "react-vr-web": "~0.1.0",
+    "subscriptions-transport-ws": "^0.3.1",
+    "three": "^0.80.1",
+    "xopen": "1.0.0"
+  }
+}
