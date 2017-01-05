@@ -22,7 +22,7 @@ Getting started is simple.
       npm install -g react-native-cli
       ```
 
-3. Install the rest of the dependencies
+3. Get the code and install the dependencies
 
     ```
     git clone https://github.com/scaphold-io/react-vr-graphql.git react-vr-graphql
