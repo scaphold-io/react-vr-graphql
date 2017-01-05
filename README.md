@@ -41,7 +41,7 @@ Open [http://localhost:8081/vr/](http://localhost:8081/vr/) to see your VR appli
 ## Create a message to see it appear in real-time
 
 Open [https://us-west-2.api.scaphold.io/graphql/react-vr-graphql](https://us-west-2.api.scaphold.io/graphql/react-vr-graphql)
-to open our app's api [GraphiQL](https://github.com/graphql/graphiql).
+to open [GraphiQL](https://github.com/graphql/graphiql).
 
 ### Fire off a mutation
 
