@@ -75,6 +75,11 @@ Click `Cmd-Enter` or click the run button.
 Open GraphiQL and your VR app side-by-side in two browser windows and watch as your VR app
 automatically updates to your messages as you create them.
 
+# Make it your own!
+
+The root of the application can be found in `index.vr.js`. The `vr` directory contains some
+initial setup requirements by the vr environment and shouldn't need to change much.
+
 It's time to play around and start building! We hope this helps you build awesome VR apps!
 
 With love from [scaphold.io](https://scaphold.io)
