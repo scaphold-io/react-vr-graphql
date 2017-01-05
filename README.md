@@ -27,6 +27,8 @@ The starter kit requires react native. Let's install it.
 3. Install the rest of the dependencies
 
     ```
+    git clone https://github.com/scaphold-io/react-vr-graphql.git react-vr-graphql
+    cd react-vr-graphql
     npm install
     ```
 
