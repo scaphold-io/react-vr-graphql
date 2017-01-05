@@ -70,10 +70,12 @@ with these variables:
 
 Click `Cmd-Enter` or click the run button.
 
-# Rejoice!
+# Check it out live!
 
 Open GraphiQL and your VR app side-by-side in two browser windows and watch as your VR app
 automatically updates to your messages as you create them.
+
+![ScapholdVR](https://github.com/scaphold-io/react-vr-graphql/blob/master/static_assets/vr-example.gif)
 
 # Make it your own!
 
