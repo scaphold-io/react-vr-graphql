@@ -9,8 +9,6 @@ Getting started is simple.
 
 ## Requirements
 
-The starter kit requires react native. Let's install it.
-
 1. If you don't already have node install it. We also need watchman.
 
     ```
@@ -18,15 +16,17 @@ The starter kit requires react native. Let's install it.
     brew install watchman
     ```
 
-2. Globally install react-native.
+2. The starter kit requires react native. Let's install it.
 
       ```
       npm install -g react-native-cli
       ```
 
-3. Install the rest of the dependencies
+3. Get the code and install the dependencies
 
     ```
+    git clone https://github.com/scaphold-io/react-vr-graphql.git react-vr-graphql
+    cd react-vr-graphql
     npm install
     ```
 
@@ -41,7 +41,7 @@ Open [http://localhost:8081/vr/](http://localhost:8081/vr/) to see your VR appli
 ## Create a message to see it appear in real-time
 
 Open [https://us-west-2.api.scaphold.io/graphql/react-vr-graphql](https://us-west-2.api.scaphold.io/graphql/react-vr-graphql)
-to open our app's api [GraphiQL](https://github.com/graphql/graphiql).
+to open [GraphiQL](https://github.com/graphql/graphiql).
 
 ### Fire off a mutation
 
@@ -83,3 +83,5 @@ initial setup requirements by the vr environment and shouldn't need to change mu
 It's time to play around and start building! We hope this helps you build awesome VR apps!
 
 With love from [scaphold.io](https://scaphold.io)
+
+![Scaphold.io](https://scaphold.io/docs/images/logo.png)
